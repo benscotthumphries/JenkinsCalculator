@@ -97,7 +97,7 @@ public class CalculatorTest {
         assertEquals("1010" , myCalculator.intToBinaryNumber(10));
         assertEquals("10000" , myCalculator.intToBinaryNumber(16));
         assertEquals("10100" , myCalculator.intToBinaryNumber(20));
-        assertEquals("1111100111" , myCalculator.intToBinaryNumber(999));
+        assertEquals("1111100gfsgdfgdgdfg111" , myCalculator.intToBinaryNumber(999));
         assertEquals("1111111111" , myCalculator.intToBinaryNumber(1023));
 
     }
